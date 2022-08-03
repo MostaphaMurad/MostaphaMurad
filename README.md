@@ -5,10 +5,21 @@ I'm  Java Backend Developer from egypt
 
 - 🔭 I’m currently working on Bayment Billing System Project
 - 🌱 I’m currently learning MongoDB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mostafamurad29@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- skills
+Basics(html,css,bootstrap)
+Thymeleaf
+Database(Mysql)
+FrameWorks(Spring)
+spring boot
+spring security
+springMvc
+Maven
+Servlet,JSP
+-Programming Languages
+c++
+java
+Datastructure
+Algorithms
+OOP
+Design Patterns
 -->
